@@ -104,16 +104,94 @@ const PrincipalBanner = (props: Iprops) => {
         <SectionBody>
           <SectionTitle>Impacto - Tecnología</SectionTitle>
           <SectionText>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            quibusdam, voluptate, voluptatum, quia repellat natus voluptas
-            dolorum quos quae consequatur voluptatem. Quibusdam, voluptate,
-            voluptatum, quia repellat natus voluptas dolorum quos quae
-            consequatur voluptatem.
+            No es un secreto para nadie que el acelerado avance tecnológico en
+            los dispositivos electrónicos que se usan a diario ha traído consigo
+            problemas en la seguridad y privacidad de los datos de sus usuarios,
+            y en este artículo se mencionarán aspectos cruciales en este tema y
+            también casos que dejaron en evidencia la falta de privacidad para
+            con los usuarios de estos dispositivos.
+            <br />
+            <br /> El rápido avance teconológico de los dispositivos
+            electrónicos los ha convertido en más que un lujo una necesidad
+            dentro de la vida cotidiana, los robots, la realidad aumentada, los
+            algoritmos, los teléfonos inteligentes, entre otros, no solo le
+            facilitan la vida a las personas, también han demostrado que existen
+            grandes problemas en la privacidad de los datos de las personas, un
+            claro ejemplo de la brecha entre el desarrollo tecnológico y el
+            manejo de los datos son los teléfonos inteligentes, tabletas y
+            laptops estos dispositivos de uso diario, almacenan gran cantidad de
+            información de sus usuarios, como por ejemplo, contraseñas, claves
+            de cuentas bancarias, fechas importantes de los usuarios, gustos y
+            preferencias, información que ha servido para enviar publicidad
+            dirigida desde las compañías a cada uno de los usuarios, como
+            también para cometer delitos a grandes escalas, como se puede
+            evidenciar, robos de cuentas bancarias, hackeo de correo electrónico
+            y robo de información.
+            <br />
+            <br /> Las múltiples formas en las que se pueden conectar hoy los
+            dispositivos con la intranet o con otros dispositivos, como, por
+            ejemplo: redes inalámbricas, GPS, micrófonos, cámaras y puertos de
+            diferentes conexiones, demandan mayor seguridad en los puntos
+            finales que requieren ciberseguridad, a pesar de los esfuerzos de
+            las empresas para que la navegación de las personas por el internet
+            sea cada vez más segura, el avance en conectividad aunque muy
+            necesario y útil para agilizar muchos de los procesos de la vida
+            cotidiana, no dejan de ser un riesgo en su uso, por la cantidad de
+            información que se divulga sin la correcta supervisión o
+            verificación de entidades correspondientes.
+            <br />
+            <br /> A pesar de que existe una ley en Colombia destinada a velar
+            por el cumplimiento de la privacidad en los datos personales (ley
+            1581 de 2012), la cual reconoce el derecho de las personas a
+            actualizar y rectificar la información existente de ellas en las
+            bases de datos o archivos que sean de conocimiento o susceptibles al
+            tratamiento de empresas públicas o privadas. <br />
+            <br />
+            En conclusión, a la investigación anterior, el avance en
+            ciberseguridad en relación con el avance de los dispositivos
+            tecnológicos deja brechas preocupantes las cuales demandan ser
+            cubiertas con celeridad para que el avance de la tecnología no sea
+            un problema para la seguridad si no de gran utilidad como también ha
+            sucedido a lo largo de estos años.
           </SectionText>
           <SectionReferences>
-            <a href="#">-Referencia 1 </a>
-            <a href="#">-Referencia 2 </a>
-            <a href="#">-Referencia 3 </a>
+            BBVA open mind. 2020. Avance tecnológico: riesgos y desafíos.
+            Recuperado de{" "}
+            <a
+              href="https://www.bbvaopenmind.com/articulos/avance-tecnologico-riesgos-y-desafios/"
+              target="_blank"
+            >
+              https://www.bbvaopenmind.com/articulos/avance-tecnologico-riesgos-y-desafios/
+            </a>
+            <br />
+            <br />
+            Telefónica tech. Febrero 2020. Seguridad informática una garantía
+            para el futuro de la organización. Recuperado de{" "}
+            <a
+              href="https://telefonicatech.com/blog/seguridad_informatica"
+              target="_blank"
+            >
+              https://telefonicatech.com/blog/seguridad_informatica
+            </a>
+            <br />
+            <br />
+            IBM, 2022. ¿Qué es la seguridad móvil? Recuperado de{" "}
+            <a
+              href="https://www.ibm.com/mx-es/topics/mobile-security"
+              target="_blank"
+            >
+              https://www.ibm.com/mx-es/topics/mobile-security
+            </a>
+            <br />
+            <br />
+            Ministerio de ambiente. 2023. Protección de datos personales.
+            Recuperado de{" "}
+            <a
+              href="https://www.minambiente.gov.co/politica-de-proteccion-de-datos-personales/#:~:text=Ley%20de%20Protección%20de%20Datos,de%20naturaleza%20pública%20o%20privada."
+              target="_blank"
+            >
+              https://www.minambiente.gov.co/politica-de-proteccion-de-datos-personales/#:~:text=Ley%20de%20Protección%20de%20Datos,de%20naturaleza%20pública%20o%20privada.
+            </a>
           </SectionReferences>
         </SectionBody>
       </Section>
@@ -203,7 +281,9 @@ const PrincipalBanner = (props: Iprops) => {
               target="_blank"
             >
               https://www.bbc.com/mundo/noticias-43472797
-            </a><br/><br/>
+            </a>
+            <br />
+            <br />
             Santamaria A. 2023. Nueva versión de ChatGPT aprueba examen para ser
             abogado. Recuperado de{" "}
             <a
@@ -211,7 +291,9 @@ const PrincipalBanner = (props: Iprops) => {
               target="_blank"
             >
               https://www.eluniversal.com.mx/tendencias/nueva-version-de-chatgpt-aprueba-examen-para-ser-abogado/
-            </a><br/><br/>
+            </a>
+            <br />
+            <br />
             ONU. 2021. Los riesgos de la inteligencia artificial para la
             privacidad exigen medidas urgentes – Bachelet Recuperado de{" "}
             <a
@@ -219,7 +301,9 @@ const PrincipalBanner = (props: Iprops) => {
               target="_blank"
             >
               https://www.ohchr.org/es/press-releases/2021/09/artificial-intelligence-risks-privacy-demand-urgent-action-bachelet
-            </a><br/><br/>
+            </a>
+            <br />
+            <br />
             Marilín G. 2023. Voces clonadas con IA: nueva tecnología para un
             viejo fraude. Recuperado de{" "}
             <a
