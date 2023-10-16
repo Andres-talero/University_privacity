@@ -1,7 +1,13 @@
-const App = () => {
-  return ( 
-    <h1>Privacy</h1>
-   );
-}
- 
-export default App;
+'use client';
+import React from "react";
+import PrincipalBanner from "../components/PrincipalBanner";
+
+const Page = () => {
+  return (
+    <>
+      <PrincipalBanner title="Hello World" />
+    </>
+  );
+};
+
+export default Page;
