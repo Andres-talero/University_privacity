@@ -45,16 +45,57 @@ const PrincipalBanner = (props: Iprops) => {
         <SectionBody>
           <SectionTitle>Impacto - Redes Sociales</SectionTitle>
           <SectionText>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            quibusdam, voluptate, voluptatum, quia repellat natus voluptas
-            dolorum quos quae consequatur voluptatem. Quibusdam, voluptate,
-            voluptatum, quia repellat natus voluptas dolorum quos quae
-            consequatur voluptatem.
+            La erosión de la privacidad en las redes sociales es una
+            preocupación cada vez más apremiante, que se ha intensificado a
+            medida que la tecnología ha experimentado un avance vertiginoso.
+            Estas plataformas se han consolidado como una parte integral de la
+            rutina diaria de un gran número de usuarios, lo que ha impulsado un
+            aumento exponencial en el intercambio de datos personales en línea.
+            Sin embargo, este fenómeno no está exento de riesgos sustanciales
+            para la privacidad, a menos que se aplique un control meticuloso
+            sobre quién tiene acceso a esta información sensible.
+            <br />
+            <br /> Graham Cluley, un reconocido experto en seguridad de la
+            información, ha subrayado la importancia de adoptar un enfoque
+            cauteloso en lo que respecta a la divulgación de información
+            personal en las redes sociales. Sus consejos hacen hincapié en la
+            necesidad de limitar rigurosamente la cantidad de datos personales
+            compartidos en estas plataformas, dada la creciente amenaza de la
+            suplantación de identidad, el robo de datos y otros abusos de la
+            información confidencial. Además, Cluley enfatiza que es imperativo
+            que los usuarios sean escépticos ante las solicitudes de información
+            personal, especialmente cuando provienen de fuentes inesperadas o
+            desconocidas en línea. <br />
+            <br />
+            La visión de Bruce Schneier sobre la seguridad cibernética y la
+            privacidad en las redes sociales es inmensamente relevante en el
+            mundo digital en constante evolución. Schneier, un experto en la
+            materia, ha advertido sobre los riesgos que acompañan el avance de
+            la tecnología y su impacto en la privacidad de datos en las redes
+            sociales. Un ejemplo claro, radica en la recopilación masiva de
+            datos por parte de las plataformas de redes sociales. En este
+            sentido, Schneier destaca que estas empresas reúnen información
+            detallada sobre los usuarios, desde sus gustos y preferencias hasta
+            sus interacciones en línea. Esto permite la creación de perfiles
+            detallados que pueden utilizarse para la publicidad dirigida y otros
+            fines comerciales. Aunque la publicidad personalizada puede mejorar
+            la experiencia del usuario, plantea preocupaciones sustanciales
+            sobre la privacidad, ya que la frontera entre lo que es público y lo
+            que es privado a menudo se difumina.
           </SectionText>
           <SectionReferences>
-            <a href="#">-Referencia 1 </a>
-            <a href="#">-Referencia 2 </a>
-            <a href="#">-Referencia 3 </a>
+            Ayerbe, A. I. (s/f). LA CIBERSEGURIDAD DE LA INDUSTRIA 4.0: UN MEDIO
+            PARA LA CONTINUIDAD DEL NEGOCIO. Gob.es. Recuperado el 14 de octubre
+            de 2023, de{" "}
+            <a href="https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/410/ANA%20I%20AYERBE.pdf">
+              https://www.mincotur.gob.es/Publicaciones/Publicacionesperiodicas/EconomiaIndustrial/RevistaEconomiaIndustrial/410/ANA%20I%20AYERBE.pdf
+            </a>
+            <br />
+            <br />
+            IDP. Revista de Internet, Derecho y Política. (2009). Redalyc.org.{" "}
+            <a href="https://www.redalyc.org/pdf/788/78813254010.pdf">
+              https://www.redalyc.org/pdf/788/78813254010.pdf
+            </a>
           </SectionReferences>
         </SectionBody>
       </Section>
@@ -82,16 +123,111 @@ const PrincipalBanner = (props: Iprops) => {
         <SectionBody>
           <SectionTitle>Impacto - IA y Machine Learning</SectionTitle>
           <SectionText>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-            quibusdam, voluptate, voluptatum, quia repellat natus voluptas
-            dolorum quos quae consequatur voluptatem. Quibusdam, voluptate,
-            voluptatum, quia repellat natus voluptas dolorum quos quae
-            consequatur voluptatem.
+            En los últimos años la humanidad ha evidenciado un problema gigante
+            respecto a la vulnerabilidad del derecho de la privacidad y es que
+            cada día se maneja toda la información de manera online, lo que
+            lleva a que ciertas compañías o personas tengan acceso a toda la
+            información sensible de una persona, véase el caso de la
+            manipulación del comportamiento realizada por Cabridge Analityca
+            “Cambridge Analytica logró saber cuál debía ser el contenido, tema y
+            tono de un mensaje para cambiar la forma de pensar de los votantes
+            de forma casi individualizada” (BBC, 2018). Esto es cada vez más
+            delicado, puesto que con la globalización y modernización de la
+            sociedad, toda la vida de las personas esta en una base de datos.
+            <br />
+            <br />
+            Con esto surge un gran problema, desde hace años se ha venido
+            trabando en una nueva tecnología conocida como inteligencia
+            artificial (IA) y machine learning (ML), la cuales habían sido
+            herramientas utilizadas para temas técnicos muy puntuales, los
+            cuales no representaban un gran problema para la sociedad, pero
+            actualmente esto ha cambiado; Llego un punto en que la IA es tan
+            poderosa e inteligente que es capaz de redactar textos complejos,
+            resolver pruebas de altos grados “penAI lanzó GPT-4 —una
+            actualización más potente del modelo de inteligencia artificial (IA)
+            utilizado en ChatGPT —, el cual presentó y aprobó el test Uniform
+            Bar Exam (UBE), una prueba en Estados Unidos que examina el
+            conocimiento y habilidades que deben poseer los abogados y no sólo
+            aprobó el examen, sino que se colocó en el percentil 90, es decir,
+            obtuvo una calificación mayor a la de 9 de cada 10 personas que lo
+            presentan” (Santamaria A. 2023), programar, diseñar y una infinidad
+            de cosas más; pero para esto la IA tiene que hacer uso de
+            información y bases de datos con las cuales “aprender” más, hay es
+            donde esta la información de la población.
+            <br />
+            <br /> Estos modelos de IA y ML son entrenados con toda la
+            información recolectada de la población a lo largo de toda la
+            historia, con cuales llegan a predecir de una forma inimaginable
+            sesgos, comportamientos y pensamientos humanos, es por ello que hoy
+            mas que nunca las personas tiene que salvaguardar su información y
+            datos personales, porque ya hay algo que es capaz de procesarlos,
+            manipular y utilizarlos a su antojo.
+            <br />
+            <br /> Es un tema complejo y delicado, tanto que la ONU se pronuncio
+            al respecto, enfatizando en lo importante y vital que es regular los
+            modelos IA y su utilización “Naciones Unidas para los Derechos
+            Humanos, Michelle Bachelet, enfatizó el miércoles la urgente
+            necesidad de establecer una moratoria a la venta y el uso de los
+            sistemas de inteligencia artificial (IA) que amenazan gravemente a
+            los derechos humanos, hasta que se hayan puesto en vigor las
+            salvaguardas adecuadas” (ONU, 2021). Un comunicado de la ONU del
+            2021, ahora en 2023 los modelos son más poderosos e inteligentes que
+            antes y como lo dijo la ONU es una amenaza potencial para los
+            derechos humanos.
+            <br />
+            <br /> Actualmente el diseño, la programación, la seguridad, el
+            análisis de datos, decisiones y muchas cosas más son realizadas por
+            IA y tiene acceso completo a los datos de la población, datos que
+            anteriormente se compartieron sin siquiera saberlo hacen parte de
+            una gran base de datos que alimenta la IA.
+            <br />
+            <br /> Esto conlleva a que se generen modelos IA de personas con
+            toda su información, tendencias y comportamientos los cuales pueden
+            ser usados como productos para compañías de publicidad, gobiernos o
+            incluso para suplantación de identidad . “El sintetizador de
+            ElevenLabs solo necesita un minuto de audio de una voz limpia (…)
+            para generar una voz clonada de forma gratuita en pocos segundos (…)
+            La compañía promete que puede hacerlo, con un 99% de precisión y
+            cualquier acento” (Marilín G. 2023).
+            <br />
+            <br /> Queda una gran puerta abierta para la vulneración de la
+            privacidad de las personas y la integridad de sus derechos humanos
+            pero esto es algo en lo que se está trabajando en la actualidad.
           </SectionText>
           <SectionReferences>
-            <a href="#">-Referencia 1 </a>
-            <a href="#">-Referencia 2 </a>
-            <a href="#">-Referencia 3 </a>
+            BBC. 2018. 5 claves para entender el escándalo de Cambridge
+            Analytica que hizo que Facebook perdiera US$37.000 millones en un
+            día. Recuperado de{" "}
+            <a
+              href="https://www.bbc.com/mundo/noticias-43472797"
+              target="_blank"
+            >
+              https://www.bbc.com/mundo/noticias-43472797
+            </a><br/><br/>
+            Santamaria A. 2023. Nueva versión de ChatGPT aprueba examen para ser
+            abogado. Recuperado de{" "}
+            <a
+              href="https://www.eluniversal.com.mx/tendencias/nueva-version-de-chatgpt-aprueba-examen-para-ser-abogado/"
+              target="_blank"
+            >
+              https://www.eluniversal.com.mx/tendencias/nueva-version-de-chatgpt-aprueba-examen-para-ser-abogado/
+            </a><br/><br/>
+            ONU. 2021. Los riesgos de la inteligencia artificial para la
+            privacidad exigen medidas urgentes – Bachelet Recuperado de{" "}
+            <a
+              href="https://www.ohchr.org/es/press-releases/2021/09/artificial-intelligence-risks-privacy-demand-urgent-action-bachelet"
+              target="_blank"
+            >
+              https://www.ohchr.org/es/press-releases/2021/09/artificial-intelligence-risks-privacy-demand-urgent-action-bachelet
+            </a><br/><br/>
+            Marilín G. 2023. Voces clonadas con IA: nueva tecnología para un
+            viejo fraude. Recuperado de{" "}
+            <a
+              href="https://www.newtral.es/voces-clonadas-ia-fraudes-estafas-suplantacion/20230814/"
+              target="_blank"
+            >
+              https://www.newtral.es/voces-clonadas-ia-fraudes-estafas-suplantacion/20230814/
+            </a>
           </SectionReferences>
         </SectionBody>
       </Section>

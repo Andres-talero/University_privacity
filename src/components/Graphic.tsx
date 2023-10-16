@@ -35,7 +35,7 @@ const Graphic = () => {
           <CartesianGrid strokeDasharray="3 3" />
           <XAxis dataKey="name" fontSize={16} />
           <YAxis fontSize={16} />
-          <Tooltip />
+          <Tooltip/>
           <Bar
             dataKey="porcentaje"
             fill="rgba(1, 59, 193, 0.56)"

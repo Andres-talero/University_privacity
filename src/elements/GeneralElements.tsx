@@ -41,12 +41,12 @@ const Description = styled.div`
 
   @media screen and (max-width: 60rem) {
     font-size: 1rem;
-    padding: 0 3rem;
+    padding: 0 2rem;
   }
 
   @media screen and (max-width: 30rem) {
     font-size: 0%.8;
-    padding: 0 2rem;
+    padding: 0 1rem;
   }
 `;
 
