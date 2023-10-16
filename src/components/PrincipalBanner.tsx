@@ -11,6 +11,10 @@ import {
 } from "../elements/SectionElements";
 import { Iprops } from "@/interfaces/PrincipalBanner.interface";
 import PricacityBG from "@/assets/images/privacy.jpg";
+import RedesImage from "@/assets/images/redes.jpg";
+import CelularImage from "@/assets/images/celulares.jpg";
+import iaImage from "@/assets/images/ia.jpg";
+import TechImage from "@/assets/images/tech.jpg";
 import GraphicContainer from "./GraphicContainer";
 import InfographicContainer from "./InfographicContainer";
 import Footer from "./Footer";
@@ -37,7 +41,7 @@ const PrincipalBanner = (props: Iprops) => {
         la actualidad los datos son el bien más preciado y codiciado.
       </Description>
       <Section reverse={true}>
-        <SectionImage src={PricacityBG} alt="Privacidad" />
+        <SectionImage src={RedesImage} alt="Redes sociales" />
         <SectionBody>
           <SectionTitle>Impacto - Redes Sociales</SectionTitle>
           <SectionText>
@@ -55,7 +59,7 @@ const PrincipalBanner = (props: Iprops) => {
         </SectionBody>
       </Section>
       <Section>
-        <SectionImage src={PricacityBG} alt="Privacidad" />
+        <SectionImage src={TechImage} alt="Tecnología" />
         <SectionBody>
           <SectionTitle>Impacto - Tecnología</SectionTitle>
           <SectionText>
@@ -74,7 +78,7 @@ const PrincipalBanner = (props: Iprops) => {
       </Section>
       <GraphicContainer />
       <Section reverse={true}>
-        <SectionImage src={PricacityBG} alt="Privacidad" />
+        <SectionImage src={iaImage} alt="IA" />
         <SectionBody>
           <SectionTitle>Impacto - IA y Machine Learning</SectionTitle>
           <SectionText>

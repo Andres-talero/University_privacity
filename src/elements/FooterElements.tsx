@@ -10,8 +10,8 @@ const FooterContainer = styled.div`
   align-items: center;
   background-color: #000;
   margin-top: 5rem;
-  border-top-right-radius: 5rem;
-  border-top-left-radius: 5rem;
+  border-top-right-radius: 2rem;
+  border-top-left-radius: 2rem;
   overflow: hidden;
 
   @media screen and (max-width: 60rem) {

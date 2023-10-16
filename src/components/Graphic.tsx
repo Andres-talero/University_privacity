@@ -10,7 +10,7 @@ import {
   ResponsiveContainer,
   LabelList,
 } from "recharts";
-import { GraphicContainer, Canvas } from "../elements/GraphicElements";
+import { GraphicContainer, GraphicTitle } from "../elements/GraphicElements";
 
 const data = [
   { name: "FaceBook", porcentaje: 79.5, fill: "#1877F2" },
@@ -24,10 +24,10 @@ const data = [
 const Graphic = () => {
   return (
     <GraphicContainer>
-      <h2 style={{ textAlign: "center", margin: "2rem" }}>
+      <GraphicTitle style={{ textAlign: "center", margin: "2rem" }}>
         Porcentaje de Información Recopilada
-      </h2>
-      <ResponsiveContainer width="90%" height={350}>
+      </GraphicTitle>
+      <ResponsiveContainer width="100%" height={350}>
         <BarChart
           data={data}
           margin={{ top: 20, right: 30, left: 20, bottom: 5 }}

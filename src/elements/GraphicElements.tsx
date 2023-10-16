@@ -10,6 +10,10 @@ const GraphicContainer = styled.div`
   padding: 3rem;
   font-size: 2rem;
   overflow: hidden;
+
+  @media screen and (max-width: 60rem) {
+    padding: 0;
+  }
 `;
 
 const Canvas = styled.canvas`
@@ -17,4 +21,18 @@ const Canvas = styled.canvas`
   height: auto !important;
 `;
 
-export { GraphicContainer, Canvas };
+const GraphicTitle = styled.h2`
+  font-size: 2.5rem;
+  margin-bottom: 2rem;
+  font-weight: 300;
+
+  @media screen and (max-width: 60rem) {
+    font-size: 2rem;
+  }
+
+  @media screen and (max-width: 30rem) {
+    font-size: 1.5rem;
+  }
+`;
+
+export { GraphicContainer, Canvas, GraphicTitle };
